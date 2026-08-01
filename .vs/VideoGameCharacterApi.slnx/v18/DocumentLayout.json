@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\users\\adria\\onedrive\\documents\\code\\apis\\videogamecharacterapi\\videogamecharacterapi\\videogamecharacterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\videogamecharacterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\users\\adria\\onedrive\\documents\\code\\apis\\videogamecharacterapi\\videogamecharacterapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\users\\adria\\onedrive\\documents\\code\\apis\\videogamecharacterapi\\videogamecharacterapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\users\\adria\\onedrive\\documents\\code\\apis\\videogamecharacterapi\\videogamecharacterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\users\\adria\\onedrive\\documents\\code\\apis\\videogamecharacterapi\\videogamecharacterapi\\videogamecharacterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9CF0006-D001-49FB-9F8A-59F72FD380AF}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\videogamecharacterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\WeatherForecast.cs",
+              "RelativeToolTip": "VideoGameCharacterApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T16:43:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "VideoGameCharacterApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T16:42:52.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoGameCharacterApi.http",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "RelativeToolTip": "VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-30T17:22:09.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\Program.cs",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\Program.cs",
+              "RelativeToolTip": "VideoGameCharacterApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:10:47.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoGameCharacterApi",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "RelativeToolTip": "VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-30T17:10:08.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
