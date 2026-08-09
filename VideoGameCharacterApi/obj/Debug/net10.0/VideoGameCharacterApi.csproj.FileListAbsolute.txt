@@ -33,3 +33,4 @@ C:\Users\adria\OneDrive\Documents\Code\APIs\VideoGameCharacterApi\VideoGameChara
 C:\Users\adria\OneDrive\Documents\Code\APIs\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\VideoGameCharacterApi.pdb
 C:\Users\adria\OneDrive\Documents\Code\APIs\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\VideoGameCharacterApi.genruntimeconfig.cache
 C:\Users\adria\OneDrive\Documents\Code\APIs\VideoGameCharacterApi\VideoGameCharacterApi\obj\Debug\net10.0\ref\VideoGameCharacterApi.dll
+C:\Users\adria\OneDrive\Documents\Code\APIs\VideoGameCharacterApi\VideoGameCharacterApi\bin\Debug\net10.0\Scalar.AspNetCore.dll

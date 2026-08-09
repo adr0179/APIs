@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fGBKA+9AlQ8=",
+  "dgSpecHash": "rvUWwK0/94I=",
   "success": true,
   "projectFilePath": "C:\\Users\\adria\\OneDrive\\Documents\\Code\\APIs\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adria\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
-    "C:\\Users\\adria\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\scalar.aspnetcore\\2.16.17\\scalar.aspnetcore.2.16.17.nupkg.sha512"
   ],
   "logs": [
     {
