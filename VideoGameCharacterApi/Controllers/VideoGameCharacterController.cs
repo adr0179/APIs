@@ -4,6 +4,7 @@ using System.Data;
 using System.Xml.Linq;
 using VideoGameCharacterApi.Models;
 using VideoGameCharacterApi.Services;
+using VideoGameCharacterApi.Dtos;
 
 namespace VideoGameCharacterApi.Controllers
 {
@@ -13,11 +14,12 @@ namespace VideoGameCharacterApi.Controllers
     public class VideoGameCharacterController(IVideoGameCharacterService service) : ControllerBase
     {
         [HttpGet]
-        public async Task<ActionResult<List<Character>>> GetCharacters() => Ok(await service.GetAllCharactersAsync());
-
+        public async Task<ActionResult<List<CharacterResponse>>> GetCharacters() 
+            => Ok(await service.GetAllCharactersAsync());
+        
         // {} indecates that the id is a parameter that will be passed in the URL
         [HttpGet("{id}")]
-        public async Task<ActionResult<Character>> GetCharacter(int id)
+        public async Task<ActionResult<CharacterResponse>> GetCharacter(int id)
         {
             var character = await service.GetCharacterByIdAsync(id);
             return character is null ? NotFound("Character with the given ID was not found.") : Ok(character);
